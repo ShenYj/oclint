@@ -1,0 +1,11 @@
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/CMakeFiles/rebuild_cache.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/CMakeFiles/edit_cache.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/CMakeFiles/intrinsics_gen.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/rebuild_cache.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/edit_cache.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/PMDReporter.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/XcodeReporter.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/JSONReporter.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/XMLReporter.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/HTMLReporter.dir
+/Users/shenyj/Downloads/oclint-0.15/build/oclint-reporters/reporters/CMakeFiles/TextReporter.dir

@@ -1,0 +1,13 @@
+# ninja log v5
+0	568	1599020215351030281	reporters/CMakeFiles/XcodeReporter.dir/XcodeReporter.cpp.o	9e3e36cd28134b2
+569	618	1599020215404792647	reporters.dl/libXcodeReporter.dylib	85b0f78547416bcf
+1	630	1599020215412695226	reporters/CMakeFiles/XMLReporter.dir/XMLReporter.cpp.o	899c2834b76fb128
+0	646	1599020215429923673	reporters/CMakeFiles/PMDReporter.dir/PMDReporter.cpp.o	a135ad334a5f7cb0
+1	660	1599020215441388203	reporters/CMakeFiles/TextReporter.dir/TextReporter.cpp.o	5e9587530d9e0fd9
+1	663	1599020215444435284	reporters/CMakeFiles/HTMLReporter.dir/HTMLReporter.cpp.o	51c9a07d630ef396
+1	673	1599020215455640033	reporters/CMakeFiles/JSONReporter.dir/JSONReporter.cpp.o	1624a8278f7bfc22
+630	688	1599020215474300795	reporters.dl/libXMLReporter.dylib	f862eb7cf290b974
+646	706	1599020215492991635	reporters.dl/libPMDReporter.dylib	6b2995b853570117
+660	719	1599020215505594749	reporters.dl/libTextReporter.dylib	33a1cdecc12216ed
+663	722	1599020215508952992	reporters.dl/libHTMLReporter.dylib	737ed8508129d7fe
+673	731	1599020215517802748	reporters.dl/libJSONReporter.dylib	6309f685846306e1
