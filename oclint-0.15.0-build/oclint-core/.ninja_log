@@ -1,0 +1,14 @@
+# ninja log v5
+2	413	1599020095593838089	lib/CMakeFiles/OCLintCore.dir/Version.cpp.o	df3c96de7e7d9dd0
+2	467	1599020095646777016	lib/CMakeFiles/OCLintCore.dir/Violation.cpp.o	37ea3ead22775a8e
+1	497	1599020095679011898	lib/CMakeFiles/OCLintCore.dir/RuleBase.cpp.o	88e876d8382576ae
+1	511	1599020095692738668	lib/CMakeFiles/OCLintRuleSet.dir/RuleSet.cpp.o	7f19fb07f4d9aa31
+2	534	1599020095715422999	lib/CMakeFiles/OCLintCore.dir/ViolationSet.cpp.o	31a193dc67af0762
+1	578	1599020095759149180	lib/CMakeFiles/OCLintCore.dir/RawResults.cpp.o	b5a6deafcfef5f1f
+1	583	1599020095763327093	lib/CMakeFiles/OCLintCore.dir/ResultCollector.cpp.o	38f253705a62d2db
+0	611	1599020095790375548	lib/CMakeFiles/OCLintRuleSet.dir/RuleConfiguration.cpp.o	c2a46e0226297b1c
+611	663	1599020095849142000	lib/libOCLintRuleSet.a	f656d7983ca3f11e
+1	696	1599020095875400140	lib/CMakeFiles/OCLintCore.dir/AbstractResults.cpp.o	4a157e2274fcf298
+1	958	1599020096140152478	lib/CMakeFiles/OCLintCore.dir/UniqueResults.cpp.o	16c5855e693730af
+2	3497	1599020098665054024	lib/CMakeFiles/OCLintCore.dir/RuleCarrier.cpp.o	cfb06b06a3a50f9b
+3498	3544	1599020098731007000	lib/libOCLintCore.a	46e7edc49e584dd5
