@@ -22,3 +22,5 @@ For more information, visit [http://oclint.org](http://oclint.org)
 在`feature/0.15.0`的分支下我已经提供了本地编译好的资源文件
 
 默认`build`被设置了忽略, 为了更明显的辨认, 我将文件夹名称改为`oclint-0.15.0-build`, 名称可以任意修改, 关键是环境路径一定要设置正确.
+
+使用请参考: [修复xcode 11下OCLint分析失败](https://github.com/ShenYj/ShenYj.github.io/blob/master/markdowns/CICD/OCLint%2013.0%20在Xcode%2011下报错.md)
